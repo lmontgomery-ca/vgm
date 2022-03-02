@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "vgm",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\2022\\vgm\\amplify\\backend\\api\\vgm\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
